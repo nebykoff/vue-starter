@@ -1,6 +1,6 @@
-# test
+# Vue webpack starter
 
-> A Vue.js project
+> A Vue.js start project
 
 ## Build Setup
 
